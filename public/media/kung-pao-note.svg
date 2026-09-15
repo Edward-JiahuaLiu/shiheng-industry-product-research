@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="760" viewBox="0 0 720 760">
+  <rect width="720" height="760" fill="#ebe6df"/>
+  <rect x="74" y="48" width="572" height="664" rx="20" fill="#fffdf9" stroke="#d8d0c5" stroke-width="3"/>
+  <text x="116" y="130" fill="#a91528" font-size="40" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">本店做法｜宫保鸡丁</text>
+  <line x1="116" y1="157" x2="604" y2="157" stroke="#edd4d7" stroke-width="3"/>
+  <text x="116" y="229" fill="#2d3239" font-size="30" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">① 鸡丁先滑炒至表面变色。</text>
+  <text x="116" y="307" fill="#2d3239" font-size="30" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">② 酱汁略收，再入花生。</text>
+  <text x="116" y="385" fill="#2d3239" font-size="30" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">③ 翻匀出锅，保留花生脆度。</text>
+  <text x="116" y="485" fill="#a91528" font-size="29" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">本示例明确含花生。</text>
+  <line x1="116" y1="551" x2="604" y2="551" stroke="#e5e0d9" stroke-width="2"/>
+  <text x="116" y="617" fill="#686c72" font-size="24" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">示例资料图 · 预置 OCR 草稿</text>
+</svg>

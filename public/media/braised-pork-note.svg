@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="760" viewBox="0 0 720 760">
+  <rect width="720" height="760" fill="#ebe6df"/>
+  <rect x="74" y="48" width="572" height="664" rx="20" fill="#fffdf9" stroke="#d8d0c5" stroke-width="3"/>
+  <text x="116" y="130" fill="#a91528" font-size="40" font-weight="700" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">本店做法｜红烧肉</text>
+  <line x1="116" y1="157" x2="604" y2="157" stroke="#edd4d7" stroke-width="3"/>
+  <text x="116" y="229" fill="#2d3239" font-size="30" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">① 焯水后煸出一些油。</text>
+  <text x="116" y="307" fill="#2d3239" font-size="30" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">② 小火焖，筷子易扎入。</text>
+  <text x="116" y="385" fill="#2d3239" font-size="30" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">③ 开盖收汁，看颜色和稠度。</text>
+  <text x="116" y="485" fill="#686c72" font-size="26" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">别只按时间判断。</text>
+  <line x1="116" y1="551" x2="604" y2="551" stroke="#e5e0d9" stroke-width="2"/>
+  <text x="116" y="617" fill="#686c72" font-size="24" font-family="PingFang SC, Noto Sans CJK SC, sans-serif">示例资料图 · 预置 OCR 草稿</text>
+</svg>
