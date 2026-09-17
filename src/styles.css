@@ -292,7 +292,7 @@ button:focus-visible, label.file-button:focus-within { outline: 3px solid #efaab
 .report-byline { color: #a92739; font-weight: 780; font-size: 16px; }
 .report-lead { max-width: 850px; color: #555761; font-size: 17px; line-height: 1.7; margin: 18px 0 24px; }
 .report-chain { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; color: #32343a; }
-.report-chain span { border: 1px solid #eedce0; border-radius: 9px; background: #fff; padding: 10px 12px; font-weight: 750; font-size: 14px; }
+.report-chain span { flex: 0 0 auto; border: 1px solid #eedce0; border-radius: 9px; background: #fff; padding: 10px 12px; font-weight: 750; font-size: 14px; }
 .report-chain b { color: #b52d40; }
 .report-actions { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 27px; }
 .report-actions a { padding: 10px 16px; border-radius: 9px; border: 1px solid #e5b9bf; color: #ad2638; font-weight: 800; font-size: 14px; background: #fff; }
@@ -301,7 +301,8 @@ button:focus-visible, label.file-button:focus-within { outline: 3px solid #efaab
 .report-actions a:hover { filter: brightness(.95); }
 .report-reader { max-width: 1120px; margin: 0 auto 50px; padding: 0 30px; }
 .reader-title { display: flex; justify-content: space-between; align-items: flex-end; gap: 12px; margin: 0 0 12px; padding: 14px 16px; border: 1px solid #edd6da; border-radius: 12px; background: linear-gradient(105deg, #fff0f2, #fff 70%); }
-.reader-title > div { display: flex; flex-direction: column; gap: 4px; }
+.reader-title > div { min-width: 0; display: flex; flex: 1 1 auto; flex-direction: column; gap: 4px; }
+.reader-title > small { flex: none; }
 .reader-title span { color: #b72437; font-size: 12px; font-weight: 850; letter-spacing: .08em; }
 .reader-title strong { font-size: 18px; }
 .reader-title small, .report-reader > p { color: #716d74; font-size: 13px; }
