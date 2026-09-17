@@ -5,9 +5,9 @@ import Report from './Report';
 import './styles.css';
 
 function Site() {
-  const [page, setPage] = useState(window.location.hash === '#report' ? 'report' : 'demo');
+  const [page, setPage] = useState(window.location.hash === '#demo' ? 'demo' : 'report');
   useEffect(() => {
-    const onHashChange = () => setPage(window.location.hash === '#report' ? 'report' : 'demo');
+    const onHashChange = () => setPage(window.location.hash === '#demo' ? 'demo' : 'report');
     window.addEventListener('hashchange', onHashChange);
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);

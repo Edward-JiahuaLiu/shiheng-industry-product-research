@@ -171,7 +171,7 @@ export default function Home() {
         </div>
         <nav className="release-nav" aria-label="报告和 Demo">
           <span className="concept-label">产品经理概念 Demo · 非现售功能</span>
-          <a href="/shiheng-industry-product-research/#report">看研究报告 →</a>
+          <a href="/shiheng-industry-product-research/#report" className="primary-nav">优先阅读研究报告 →</a>
         </nav>
       </header>
       <div className="stage">
