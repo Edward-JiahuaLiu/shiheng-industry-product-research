@@ -22,7 +22,7 @@ export default function ReportPage() {
       <section className="report-intro">
         <p className="eyebrow">核心申请作品 · 12 页完整报告</p>
         <h1>食亨行业与产品研究</h1>
-        <p className="report-byline">刘嘉骅｜申请岗位：产品经理管培生（CEO 直带 · 核心岗位）</p>
+        <p className="report-byline">刘嘉骅｜行业与产品研究</p>
         <p className="report-lead">
           先从“连锁总部为什么需要食亨”梳理行业、客户与竞品，再回到第二家店的真实执行断点。
           厨房问答 Demo 是报告洞察延伸出的待验证假设，而不是食亨已上线的功能。

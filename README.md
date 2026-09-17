@@ -1,6 +1,6 @@
 # 食亨行业与产品研究 · 厨房知识问答 Demo
 
-刘嘉骅｜申请岗位：产品经理管培生（CEO 直带 · 核心岗位）
+刘嘉骅｜行业与产品研究
 
 [阅读报告和体验 Demo](https://Edward-JiahuaLiu.github.io/shiheng-industry-product-research/) · [可编辑 Figma](https://www.figma.com/design/aoRV14coQa877m2eXZZT1o/Untitled?node-id=117-2)
 
